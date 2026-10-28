@@ -1,0 +1,2322 @@
+[
+ {
+  "id": "exex-095",
+  "source": "Astrophotography/EXEX-095.jpg",
+  "folder": "Astrophotography",
+  "w": 5504,
+  "h": 8256,
+  "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAwCdASoQABgAPu1iqk4ppaQiMAgBMB2JZwAAW+s///4q/vSAAP70GYDlFYs4vdr/eaIFIVaAbQCwWxf6oCgA",
+  "color": "#070a09",
+  "variants": [
+   {
+    "file": "exex-095-480.webp",
+    "w": 320,
+    "h": 480,
+    "bytes": 2446
+   },
+   {
+    "file": "exex-095-1000.webp",
+    "w": 667,
+    "h": 1000,
+    "bytes": 7246
+   },
+   {
+    "file": "exex-095-1800.webp",
+    "w": 1200,
+    "h": 1800,
+    "bytes": 17810
+   },
+   {
+    "file": "exex-095-2800.webp",
+    "w": 1867,
+    "h": 2800,
+    "bytes": 36304
+   }
+  ]
+ },
+ {
+  "id": "exex-1",
+  "source": "Astrophotography/EXEX-1.jpg",
+  "folder": "Astrophotography",
+  "w": 2347,
+  "h": 2308,
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACQAwCdASoYABgAPu1mqk8ppaOiKA1RMB2JYwAALnWbuW81woIAAP70GTVB3HeAB40Lh+JQhUX3b3V9rcTW7dtjGUJstA8iYikqCMAAAAA=",
+  "color": "#070300",
+  "variants": [
+   {
+    "file": "exex-1-480.webp",
+    "w": 480,
+    "h": 472,
+    "bytes": 3202
+   },
+   {
+    "file": "exex-1-1000.webp",
+    "w": 1000,
+    "h": 983,
+    "bytes": 10612
+   },
+   {
+    "file": "exex-1-1800.webp",
+    "w": 1800,
+    "h": 1770,
+    "bytes": 26166
+   },
+   {
+    "file": "exex-1-2347.webp",
+    "w": 2347,
+    "h": 2308,
+    "bytes": 38966
+   }
+  ]
+ },
+ {
+  "id": "exex-12",
+  "source": "Astrophotography/EXEX-12.jpg",
+  "folder": "Astrophotography",
+  "w": 8192,
+  "h": 7003,
+  "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACQBACdASoYABUAPu1mqk+ppSOiMBgIATAdiWMAz2QQ7+4GaYqCFzTRmo5MIAAA/vQagkC0+xz6yXsgokVjZAob3ZDECh92ur34cacdUzku0i0xhAnQ0AAA",
+  "color": "#110a08",
+  "variants": [
+   {
+    "file": "exex-12-480.webp",
+    "w": 480,
+    "h": 410,
+    "bytes": 4914
+   },
+   {
+    "file": "exex-12-1000.webp",
+    "w": 1000,
+    "h": 854,
+    "bytes": 13266
+   },
+   {
+    "file": "exex-12-1800.webp",
+    "w": 1800,
+    "h": 1539,
+    "bytes": 30302
+   },
+   {
+    "file": "exex-12-2800.webp",
+    "w": 2800,
+    "h": 2394,
+    "bytes": 54884
+   }
+  ]
+ },
+ {
+  "id": "exex-9",
+  "source": "Astrophotography/EXEX-9.jpg",
+  "folder": "Astrophotography",
+  "w": 8192,
+  "h": 5464,
+  "lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAAAwAwCdASoYABAAPu1mqk4tJaOiMAgBoB2JaQAAetCY8z4AAP7wt3UKFGRCjbq7clAAAA==",
+  "color": "#0d0c0d",
+  "variants": [
+   {
+    "file": "exex-9-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 2762
+   },
+   {
+    "file": "exex-9-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 12994
+   },
+   {
+    "file": "exex-9-1800.webp",
+    "w": 1800,
+    "h": 1201,
+    "bytes": 56024
+   },
+   {
+    "file": "exex-9-2800.webp",
+    "w": 2800,
+    "h": 1868,
+    "bytes": 188518
+   }
+  ]
+ },
+ {
+  "id": "img-2051",
+  "source": "Astrophotography/IMG_2051.JPG.jpeg",
+  "folder": "Astrophotography",
+  "w": 2340,
+  "h": 1080,
+  "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAABQAwCdASoYAAsAPu1iqU2ppaOiMAgBMB2JaQAAW+oJzVKSAAD+9Bv/KtdWRGfFkSJ5Lt/ZPcQtaKBeqAA=",
+  "color": "#0b0a0b",
+  "variants": [
+   {
+    "file": "img-2051-480.webp",
+    "w": 480,
+    "h": 222,
+    "bytes": 2048
+   },
+   {
+    "file": "img-2051-1000.webp",
+    "w": 1000,
+    "h": 462,
+    "bytes": 5610
+   },
+   {
+    "file": "img-2051-1800.webp",
+    "w": 1800,
+    "h": 831,
+    "bytes": 12368
+   },
+   {
+    "file": "img-2051-2340.webp",
+    "w": 2340,
+    "h": 1080,
+    "bytes": 18136
+   }
+  ]
+ },
+ {
+  "id": "img-2482",
+  "source": "Astrophotography/IMG_2482.JPG.jpeg",
+  "folder": "Astrophotography",
+  "w": 1454,
+  "h": 817,
+  "lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAAAwAwCdASoYAA4APu1iqk2ppaQiMAgBMB2JaQAAW+s7/V9AAP70Gmr/TVbWtZAY3LR7XW4A",
+  "color": "#050509",
+  "variants": [
+   {
+    "file": "img-2482-480.webp",
+    "w": 480,
+    "h": 269,
+    "bytes": 1034
+   },
+   {
+    "file": "img-2482-1000.webp",
+    "w": 1000,
+    "h": 562,
+    "bytes": 3008
+   },
+   {
+    "file": "img-2482-1454.webp",
+    "w": 1454,
+    "h": 817,
+    "bytes": 5512
+   }
+  ]
+ },
+ {
+  "id": "img-2643",
+  "source": "Astrophotography/IMG_2643.JPG.jpeg",
+  "folder": "Astrophotography",
+  "w": 962,
+  "h": 1711,
+  "lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAwAwCdASoOABgAPu1orU6ppiSiMAgBMB2JZwAAW+soVTcgAP70GYlkt4Om7YUz6bYZ5qfWhAAAAA==",
+  "color": "#0b0908",
+  "variants": [
+   {
+    "file": "img-2643-480.webp",
+    "w": 270,
+    "h": 480,
+    "bytes": 2736
+   },
+   {
+    "file": "img-2643-1000.webp",
+    "w": 562,
+    "h": 1000,
+    "bytes": 9532
+   },
+   {
+    "file": "img-2643-1711.webp",
+    "w": 962,
+    "h": 1711,
+    "bytes": 18498
+   }
+  ]
+ },
+ {
+  "id": "img-5629",
+  "source": "Astrophotography/IMG_5629.JPG.jpeg",
+  "folder": "Astrophotography",
+  "w": 829,
+  "h": 1215,
+  "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZwAAV4Sbzl0eb1eI9P34AAD+3iFAxKDdC3i9m9JdQmgGUVLy4jlaehaTn8GIjlZynpbQIUPvxAkjBquL0/yArifU2f6yYl4AAA==",
+  "color": "#52504e",
+  "variants": [
+   {
+    "file": "img-5629-480.webp",
+    "w": 328,
+    "h": 480,
+    "bytes": 4388
+   },
+   {
+    "file": "img-5629-1000.webp",
+    "w": 682,
+    "h": 1000,
+    "bytes": 11216
+   },
+   {
+    "file": "img-5629-1215.webp",
+    "w": 829,
+    "h": 1215,
+    "bytes": 15006
+   }
+  ]
+ },
+ {
+  "id": "img-8729",
+  "source": "Astrophotography/IMG_8729.jpg",
+  "folder": "Astrophotography",
+  "w": 3024,
+  "h": 4032,
+  "lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADwAgCdASoSABgAPu1ur1KppiQiqAgBMB2JaQAAPaUIAAD+8Qzg62sAAAA=",
+  "color": "#020204",
+  "variants": [
+   {
+    "file": "img-8729-480.webp",
+    "w": 360,
+    "h": 480,
+    "bytes": 6420
+   },
+   {
+    "file": "img-8729-1000.webp",
+    "w": 750,
+    "h": 1000,
+    "bytes": 23040
+   },
+   {
+    "file": "img-8729-1800.webp",
+    "w": 1350,
+    "h": 1800,
+    "bytes": 74522
+   },
+   {
+    "file": "img-8729-2800.webp",
+    "w": 2100,
+    "h": 2800,
+    "bytes": 180092
+   }
+  ]
+ },
+ {
+  "id": "img-9403",
+  "source": "Astrophotography/IMG_9403.jpg",
+  "folder": "Astrophotography",
+  "w": 3024,
+  "h": 4032,
+  "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAwCdASoSABgAPu1iqU2ppaOiMAgBMB2JZQAAg+9yNPQ/phl9KCAA/vEPbkyMrbowT01U3uDGWQoYYQ39KOkALFXhla7M6NWKV004Q5XKKDTF+X7BtopPoHAAAA==",
+  "color": "#040401",
+  "variants": [
+   {
+    "file": "img-9403-480.webp",
+    "w": 360,
+    "h": 480,
+    "bytes": 6844
+   },
+   {
+    "file": "img-9403-1000.webp",
+    "w": 750,
+    "h": 1000,
+    "bytes": 21102
+   },
+   {
+    "file": "img-9403-1800.webp",
+    "w": 1350,
+    "h": 1800,
+    "bytes": 48828
+   },
+   {
+    "file": "img-9403-2800.webp",
+    "w": 2100,
+    "h": 2800,
+    "bytes": 94676
+   }
+  ]
+ },
+ {
+  "id": "dsc-0764",
+  "source": "College Events/DSC_0764.JPG",
+  "folder": "College Events",
+  "w": 6016,
+  "h": 4016,
+  "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdMoRwCSAe4DISmfM/hf5JnvbCEwOnyVAA/k2pdfKmwPF/6vm/zpxbxftSSfEvFd+/EElv0rudcNp1MsCPmSZ2eLEjvwg+v+/ieSZf6ZcUK9ImaKpC/QVOrapecObaV9O7CradUfrIOSsS3L27OfaXO4QIz8zl04IwVcOdqcEE/gLA/C2DOOzII6cv4ZM7el40j5/3oAAA",
+  "color": "#675639",
+  "variants": [
+   {
+    "file": "dsc-0764-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 17486
+   },
+   {
+    "file": "dsc-0764-1000.webp",
+    "w": 1000,
+    "h": 668,
+    "bytes": 44782
+   },
+   {
+    "file": "dsc-0764-1800.webp",
+    "w": 1800,
+    "h": 1202,
+    "bytes": 94680
+   },
+   {
+    "file": "dsc-0764-2800.webp",
+    "w": 2800,
+    "h": 1869,
+    "bytes": 167622
+   }
+  ]
+ },
+ {
+  "id": "dsc-0916",
+  "source": "College Events/DSC_0916.JPG",
+  "folder": "College Events",
+  "w": 6016,
+  "h": 4016,
+  "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUAS2AftCK3kFQycUQAD+6+S8FN3kfXrqUH+xX765p+uzo81yB7kRer8m7Xw/kaE4YNScX/xDVfVmKXoX0LCsIGYB+6dhVnsyIBe9r+N4Qpee9nMT7u3iRZKCd4nQKC054kHV15XgvzWq17dSlRvt2Hn8H9K/w+8e6kGHXbz9cKZNS0mVS3qxV5o2vGyKYcjjAAA=",
+  "color": "#716446",
+  "variants": [
+   {
+    "file": "dsc-0916-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 35128
+   },
+   {
+    "file": "dsc-0916-1000.webp",
+    "w": 1000,
+    "h": 668,
+    "bytes": 111584
+   },
+   {
+    "file": "dsc-0916-1800.webp",
+    "w": 1800,
+    "h": 1202,
+    "bytes": 260478
+   },
+   {
+    "file": "dsc-0916-2800.webp",
+    "w": 2800,
+    "h": 1869,
+    "bytes": 474300
+   }
+  ]
+ },
+ {
+  "id": "dsc-1033",
+  "source": "College Events/DSC_1033.JPG",
+  "folder": "College Events",
+  "w": 6016,
+  "h": 4016,
+  "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUGYwaQcqPvj5VaVI5IoJ9WxeOIAA/ujxXVbsYnzZNiyS8S5je/ZqlF7uBmo7+iXPFi27/oOBghfNDw/11WVZZBDLI8MS/FT2ny1goZb8ZfOWxyGzclJlBnhX4hC3TuzOK35fEgBMSU09plabVeQ6xZV1fGQ/8XOm+7h4A7o2Q178Z23tHEanPg/HIzO/VnEKAAA=",
+  "color": "#69573e",
+  "variants": [
+   {
+    "file": "dsc-1033-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 17166
+   },
+   {
+    "file": "dsc-1033-1000.webp",
+    "w": 1000,
+    "h": 668,
+    "bytes": 40168
+   },
+   {
+    "file": "dsc-1033-1800.webp",
+    "w": 1800,
+    "h": 1202,
+    "bytes": 77576
+   },
+   {
+    "file": "dsc-1033-2800.webp",
+    "w": 2800,
+    "h": 1869,
+    "bytes": 133936
+   }
+  ]
+ },
+ {
+  "id": "dsc-1879",
+  "source": "College Events/DSC_1879.JPG",
+  "folder": "College Events",
+  "w": 3936,
+  "h": 2624,
+  "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMYAEsoOsYq6Ma+sqL40AD+6n0sYfH+lV5TU7eiCCL5/AYyvgOhMdGKYlvyxBAJJccOEIbTJp8/O2QIt8jR2i5sktoSm5KeYwnjr4uZffUnS4rqbAZSZoaDsRhQ/vfGW4N9+Uc8re0sc8l1Rc0s9O9yFVCaGuHcQGZoQAAA",
+  "color": "#835e36",
+  "variants": [
+   {
+    "file": "dsc-1879-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 23006
+   },
+   {
+    "file": "dsc-1879-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 74210
+   },
+   {
+    "file": "dsc-1879-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 178100
+   },
+   {
+    "file": "dsc-1879-2800.webp",
+    "w": 2800,
+    "h": 1867,
+    "bytes": 316188
+   }
+  ]
+ },
+ {
+  "id": "dsc-2106",
+  "source": "College Events/DSC_2106 (2).JPG",
+  "folder": "College Events",
+  "w": 6016,
+  "h": 4016,
+  "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR4Lf/gQC8mbpivKoygtmOTAAD+ntg4s7dl8ZDumqZAfaIO3rNO07abUAm3juV3/RniXdUsQ2CY3phIC7kfdf0iHrGbfxspFyAIXNLHva5JYyL+xxh+oqCybG2iT88lStZQ2bNsMyTu8YJK0SAj87ex5rlY/5EeT+oDLeBe/LMAAA==",
+  "color": "#4d3821",
+  "variants": [
+   {
+    "file": "dsc-2106-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 18032
+   },
+   {
+    "file": "dsc-2106-1000.webp",
+    "w": 1000,
+    "h": 668,
+    "bytes": 43686
+   },
+   {
+    "file": "dsc-2106-1800.webp",
+    "w": 1800,
+    "h": 1202,
+    "bytes": 85606
+   },
+   {
+    "file": "dsc-2106-2800.webp",
+    "w": 2800,
+    "h": 1869,
+    "bytes": 147862
+   }
+  ]
+ },
+ {
+  "id": "dsc-2948",
+  "source": "College Events/DSC_2948.JPG",
+  "folder": "College Events",
+  "w": 6016,
+  "h": 4016,
+  "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdMoADgi24cYx+uIzl1SL6HAAA/uRZacBAtKHNAZKjHdbBlXaZgI9VsW++85Ql2MI5trak+Rtj6fo35fT6Ki6ecPU8+5/5jS3455BNaeMu0fc13UAxH5ztyR3J6eUtX/95xCxot9BGOSdjnmFAAAA=",
+  "color": "#3f3320",
+  "variants": [
+   {
+    "file": "dsc-2948-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 21554
+   },
+   {
+    "file": "dsc-2948-1000.webp",
+    "w": 1000,
+    "h": 668,
+    "bytes": 56050
+   },
+   {
+    "file": "dsc-2948-1800.webp",
+    "w": 1800,
+    "h": 1202,
+    "bytes": 117802
+   },
+   {
+    "file": "dsc-2948-2800.webp",
+    "w": 2800,
+    "h": 1869,
+    "bytes": 198892
+   }
+  ]
+ },
+ {
+  "id": "dsc-3218",
+  "source": "College Events/DSC_3218.JPG",
+  "folder": "College Events",
+  "w": 6016,
+  "h": 4016,
+  "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBACdASoYABAAPu1yrU+pp6QiMAgBMB2JYwDA3Gle11u1udVqeIeGgAD+/Z2BI/Kjx4jZDx/qgylk3wWM3uHUI7EpNP5i4Wwsg+cyRJrsQrPt/+zym3UzOL/4K5Rco6NRSI4ynM8cCjSti0693XfkPS73BAAA",
+  "color": "#17140d",
+  "variants": [
+   {
+    "file": "dsc-3218-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 3954
+   },
+   {
+    "file": "dsc-3218-1000.webp",
+    "w": 1000,
+    "h": 668,
+    "bytes": 9872
+   },
+   {
+    "file": "dsc-3218-1800.webp",
+    "w": 1800,
+    "h": 1202,
+    "bytes": 22264
+   },
+   {
+    "file": "dsc-3218-2800.webp",
+    "w": 2800,
+    "h": 1869,
+    "bytes": 42366
+   }
+  ]
+ },
+ {
+  "id": "dsc-3484",
+  "source": "College Events/DSC_3484.jpg",
+  "folder": "College Events",
+  "w": 2048,
+  "h": 1367,
+  "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwAdEM2oYZdImAdy9P/cpVPAAA/sKnX7n89s89FEICpBTHCBLQahLfwQFdeuNTnXL5pq8J6y4s5VSsNtfGPUnLfDmLy4foc/p+cuomi+rMYf/A4lO27qEkv+/B7SLM9z/5cdNuR24V4CCLTM6Cvw+Juv9WMgJMnroYOwSGfzKgsYf+GQyuXKL4rEFoAA==",
+  "color": "#5a3317",
+  "variants": [
+   {
+    "file": "dsc-3484-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 19776
+   },
+   {
+    "file": "dsc-3484-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 53828
+   },
+   {
+    "file": "dsc-3484-1800.webp",
+    "w": 1800,
+    "h": 1201,
+    "bytes": 114272
+   },
+   {
+    "file": "dsc-3484-2048.webp",
+    "w": 2048,
+    "h": 1367,
+    "bytes": 132494
+   }
+  ]
+ },
+ {
+  "id": "dsc-4117",
+  "source": "College Events/DSC_4117.jpg",
+  "folder": "College Events",
+  "w": 2048,
+  "h": 1367,
+  "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoACx8KkjQoMSCbMCoAA/r4DUPTkN/N4dAqjWO1OhxQGyRzRs0SNxXT/GRBUHnmpeevjlzQOuXSUSAmpYCuCtPL2J06XvCrXmd/tZDIeXR1SesSdUqTl2JToL727cpWVSlvy++5bewGMhXj3cRDp181Vq4aXwcqhvL88CGTqDRmTDLQBgZf9W9cJwAA=",
+  "color": "#6f492a",
+  "variants": [
+   {
+    "file": "dsc-4117-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 23238
+   },
+   {
+    "file": "dsc-4117-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 61916
+   },
+   {
+    "file": "dsc-4117-1800.webp",
+    "w": 1800,
+    "h": 1201,
+    "bytes": 129874
+   },
+   {
+    "file": "dsc-4117-2048.webp",
+    "w": 2048,
+    "h": 1367,
+    "bytes": 153258
+   }
+  ]
+ },
+ {
+  "id": "dsc-4130",
+  "source": "College Events/DSC_4130.jpg",
+  "folder": "College Events",
+  "w": 2048,
+  "h": 1367,
+  "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JaADA3CHftpFK0U2LEvkAAP70GiEPGQjPHzSbqeUWlxgnrXRbFyedVfeph6BD6/JfHz6nXCZa48uMy1wAAA==",
+  "color": "#1a1009",
+  "variants": [
+   {
+    "file": "dsc-4130-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 8832
+   },
+   {
+    "file": "dsc-4130-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 24620
+   },
+   {
+    "file": "dsc-4130-1800.webp",
+    "w": 1800,
+    "h": 1201,
+    "bytes": 52672
+   },
+   {
+    "file": "dsc-4130-2048.webp",
+    "w": 2048,
+    "h": 1367,
+    "bytes": 62382
+   }
+  ]
+ },
+ {
+  "id": "dsc-4551",
+  "source": "College Events/DSC_4551 (1).jpg",
+  "folder": "College Events",
+  "w": 2048,
+  "h": 1367,
+  "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAywYYJnwYlke/bZls3OgKNQaoPMAAP67YAz0IE0TI2ZiBUwNdlf8a3pFSnvA6B5UJ2SKAPOoHtav+nG3T7wcLXbEAWX+/2moCKXthJHNcgcRqNKV6IMsbT6gPqSuLMtWFV979fcJZNCQOb06eOd36B9c/X5mOWioB7e/Hx1W2HkwGbk9HCeS8HkEI2tAZ2cOTv4ZtN3gAAA=",
+  "color": "#80552b",
+  "variants": [
+   {
+    "file": "dsc-4551-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 29812
+   },
+   {
+    "file": "dsc-4551-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 85234
+   },
+   {
+    "file": "dsc-4551-1800.webp",
+    "w": 1800,
+    "h": 1201,
+    "bytes": 183640
+   },
+   {
+    "file": "dsc-4551-2048.webp",
+    "w": 2048,
+    "h": 1367,
+    "bytes": 217592
+   }
+  ]
+ },
+ {
+  "id": "dsc-4625",
+  "source": "College Events/DSC_4625.jpg",
+  "folder": "College Events",
+  "w": 1367,
+  "h": 2048,
+  "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwBACdASoQABgAPu1kqU2ppaQiMAgBMB2JaACdMoRwACWj+YQHaXXngAAA/vK0jBF9+dbzKG44MoC9wNYB8kkaWVJEgCURgtZ1cfAlEUUV+aAgM85pJ4hFZDJ9je+597ECEhsXAAA=",
+  "color": "#74521e",
+  "variants": [
+   {
+    "file": "dsc-4625-480.webp",
+    "w": 320,
+    "h": 480,
+    "bytes": 13116
+   },
+   {
+    "file": "dsc-4625-1000.webp",
+    "w": 667,
+    "h": 1000,
+    "bytes": 35862
+   },
+   {
+    "file": "dsc-4625-1800.webp",
+    "w": 1201,
+    "h": 1800,
+    "bytes": 80476
+   },
+   {
+    "file": "dsc-4625-2048.webp",
+    "w": 1367,
+    "h": 2048,
+    "bytes": 96128
+   }
+  ]
+ },
+ {
+  "id": "dsc-4825",
+  "source": "College Events/DSC_4825.jpg",
+  "folder": "College Events",
+  "w": 2048,
+  "h": 1365,
+  "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JYwC/OCHgBgmuC0Xr4P24HgAA/u6XYk51trxaO+9w7uIkHo4D60BvkGLG+mzMFRZRx9uXVzQfFikOcBcyb1sT/4HlOjz2AwWX2dhn6Rx2zOlDYc8q+wwc7lGAAA==",
+  "color": "#1b2505",
+  "variants": [
+   {
+    "file": "dsc-4825-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 13042
+   },
+   {
+    "file": "dsc-4825-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 31452
+   },
+   {
+    "file": "dsc-4825-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 61758
+   },
+   {
+    "file": "dsc-4825-2048.webp",
+    "w": 2048,
+    "h": 1365,
+    "bytes": 73342
+   }
+  ]
+ },
+ {
+  "id": "dsc-5835",
+  "source": "College Events/DSC_5835.jpg",
+  "folder": "College Events",
+  "w": 2048,
+  "h": 1367,
+  "lqip": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlrRZTSOARH+m9mU+Z8m39EgAA/t2RVgZaxYkHnVHMiGQ6TzinUQW6e3qCv1FYOEX/oIoEGsAQfJuzwR67q2A16WZghW8KuZHY7P4nbofayuyvf55TyQX54dCiVhsDnc6r8qyBChWJh1m3hxGxg72AOwWsJzu/gir4qy3b8DxdJqZJrXcOr3avHC+iPkCnbJr9Al1LnA65sE0nTUuvzdgUEOIT9aYZ3FFwAA==",
+  "color": "#cf9651",
+  "variants": [
+   {
+    "file": "dsc-5835-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 28718
+   },
+   {
+    "file": "dsc-5835-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 82652
+   },
+   {
+    "file": "dsc-5835-1800.webp",
+    "w": 1800,
+    "h": 1201,
+    "bytes": 171096
+   },
+   {
+    "file": "dsc-5835-2048.webp",
+    "w": 2048,
+    "h": 1367,
+    "bytes": 202714
+   }
+  ]
+ },
+ {
+  "id": "dsc-5868",
+  "source": "College Events/DSC_5868.jpg",
+  "folder": "College Events",
+  "w": 1367,
+  "h": 2048,
+  "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JagCdMoRwAB8BM8d/ZnTP/9egAPkbCHzncC+KLTB5uotL+quT75h251jLhWM0RYo+Kw/8eradoYFafmBA7U5xeGcGzxhq3TOokDowwLblfJqmCnHSB+6AFzt0lzqnjHusncKn5zGn9cvT/xZSES5IuGHS7/4NThtbymsH+AL9MGCW52QCzE1AAAA=",
+  "color": "#c28d4d",
+  "variants": [
+   {
+    "file": "dsc-5868-480.webp",
+    "w": 320,
+    "h": 480,
+    "bytes": 11448
+   },
+   {
+    "file": "dsc-5868-1000.webp",
+    "w": 667,
+    "h": 1000,
+    "bytes": 33474
+   },
+   {
+    "file": "dsc-5868-1800.webp",
+    "w": 1201,
+    "h": 1800,
+    "bytes": 79838
+   },
+   {
+    "file": "dsc-5868-2048.webp",
+    "w": 1367,
+    "h": 2048,
+    "bytes": 97608
+   }
+  ]
+ },
+ {
+  "id": "eex-9286",
+  "source": "College Events/EEX_9286.JPG",
+  "folder": "College Events",
+  "w": 6016,
+  "h": 4016,
+  "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdABjU0YJ9+MqjCbQAAP7xbXm3MbtRoGWL6lGLXY+9MpTkI7GVYNA/65MlE+z6XDnmAoNrR8s2YoR+Lj7z8J4k7gxjbQGd85E6kYUa45QO26e9pEFdaZMb2/rDSLxBO8xFd5vO09JTjg2/nM5WOIdQAA==",
+  "color": "#6b4847",
+  "variants": [
+   {
+    "file": "eex-9286-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 9094
+   },
+   {
+    "file": "eex-9286-1000.webp",
+    "w": 1000,
+    "h": 668,
+    "bytes": 22348
+   },
+   {
+    "file": "eex-9286-1800.webp",
+    "w": 1800,
+    "h": 1202,
+    "bytes": 47468
+   },
+   {
+    "file": "eex-9286-2800.webp",
+    "w": 2800,
+    "h": 1869,
+    "bytes": 87902
+   }
+  ]
+ },
+ {
+  "id": "eex-9348",
+  "source": "College Events/EEX_9348.JPG",
+  "folder": "College Events",
+  "w": 6016,
+  "h": 4016,
+  "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAAAQBACdASoYABAAPu1iqU2ppaQiMAgBMB2JbAC7ABuwmQTDt36qkHQ30AD+2VySdirQrtpnwgEx8FoiWeRasEjwuldCwUAcIzQMTL6tp5a6AvxS/A3e3MV6Kmjjhtx/Yrh2Tlg4ZkXntQZOucj4pr3ho+oPVLz1pE89rNq5qUJ4vHEYdDbJKyWZEudXyG68oUMnHbKd8T3CVvmuVNHW/gPJ/AAAAA==",
+  "color": "#7b2f47",
+  "variants": [
+   {
+    "file": "eex-9348-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 17238
+   },
+   {
+    "file": "eex-9348-1000.webp",
+    "w": 1000,
+    "h": 668,
+    "bytes": 44984
+   },
+   {
+    "file": "eex-9348-1800.webp",
+    "w": 1800,
+    "h": 1202,
+    "bytes": 94418
+   },
+   {
+    "file": "eex-9348-2800.webp",
+    "w": 2800,
+    "h": 1869,
+    "bytes": 170228
+   }
+  ]
+ },
+ {
+  "id": "eex-9621",
+  "source": "College Events/EEX_9621.JPG",
+  "folder": "College Events",
+  "w": 2926,
+  "h": 4383,
+  "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACwAwCdASoQABgAPu1iqU2ppaQiMAgBMB2JZACdAAvVBTmRjsPywAD+kJGpBgcPQ0TE70l7Zlr94ilThAOpERnvaru57si+ua6gifW0jE60ercUkMocOOc+8mnfpNu4ljazFS6kE1yi7FGsdkCjS1BzWm7Fm8PiIvQZRADOjurO+oxEC2OKy3RQAAA=",
+  "color": "#ba8eae",
+  "variants": [
+   {
+    "file": "eex-9621-480.webp",
+    "w": 320,
+    "h": 480,
+    "bytes": 12676
+   },
+   {
+    "file": "eex-9621-1000.webp",
+    "w": 668,
+    "h": 1000,
+    "bytes": 32712
+   },
+   {
+    "file": "eex-9621-1800.webp",
+    "w": 1202,
+    "h": 1800,
+    "bytes": 68330
+   },
+   {
+    "file": "eex-9621-2800.webp",
+    "w": 1869,
+    "h": 2800,
+    "bytes": 119628
+   }
+  ]
+ },
+ {
+  "id": "eex-9632",
+  "source": "College Events/EEX_9632.JPG",
+  "folder": "College Events",
+  "w": 4016,
+  "h": 6016,
+  "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAwBACdASoQABgAPu1orU2ppqSiMAgBMB2JZACdAGZHZrEG/tTNz2d8DgAA/vSfQ32x/1XvVoPw611wt8zA8BMtYCjOGo7mte6qTBx1QxbWucw25qPxxSkzQsfmAD+rvzt+rNKk9mmJDElUerbYvUSDhBhXKzulg9vS1qT3wwWvT0YtvXIslDf4PeBkAAAA",
+  "color": "#642f3c",
+  "variants": [
+   {
+    "file": "eex-9632-480.webp",
+    "w": 320,
+    "h": 480,
+    "bytes": 12200
+   },
+   {
+    "file": "eex-9632-1000.webp",
+    "w": 668,
+    "h": 1000,
+    "bytes": 35144
+   },
+   {
+    "file": "eex-9632-1800.webp",
+    "w": 1202,
+    "h": 1800,
+    "bytes": 81560
+   },
+   {
+    "file": "eex-9632-2800.webp",
+    "w": 1869,
+    "h": 2800,
+    "bytes": 152556
+   }
+  ]
+ },
+ {
+  "id": "eex-9667",
+  "source": "College Events/EEX_9667.JPG",
+  "folder": "College Events",
+  "w": 6016,
+  "h": 4016,
+  "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdBrAA3ZqBedgLdWGL0pgAAP5L/oDwwZUfvigAbKwmLcZz1OTGtGmyUK+5/a2V6abwsMh/4Vd+6jf+xs9VJJYEtMYfRY9MGHOX0AYUMrNxTU+rJsfUlt3Qal1V52SsPq/UelYm8t2NoAmZfCgNbQPN1BAQYdthOVezYQ5m+Og0dtKzpM71iIRwzgAA",
+  "color": "#9e6d6d",
+  "variants": [
+   {
+    "file": "eex-9667-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 38752
+   },
+   {
+    "file": "eex-9667-1000.webp",
+    "w": 1000,
+    "h": 668,
+    "bytes": 128274
+   },
+   {
+    "file": "eex-9667-1800.webp",
+    "w": 1800,
+    "h": 1202,
+    "bytes": 314378
+   },
+   {
+    "file": "eex-9667-2800.webp",
+    "w": 2800,
+    "h": 1869,
+    "bytes": 579856
+   }
+  ]
+ },
+ {
+  "id": "eex-9674",
+  "source": "College Events/EEX_9674.JPG",
+  "folder": "College Events",
+  "w": 6016,
+  "h": 4016,
+  "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3ACSZ96PnBucuHAAA/iGwmJR3AyhouShINQC2YfhC+rMsPWgZZ+RVAjN+Y0tbnXV+LO8l9C4duEfiYfeQcy/YCeOrLZo5lMywG7HNBAiq0k4Nl0CYxOj06sFFGsAS4Q8HEy5dk3gAAA==",
+  "color": "#924c4d",
+  "variants": [
+   {
+    "file": "eex-9674-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 19596
+   },
+   {
+    "file": "eex-9674-1000.webp",
+    "w": 1000,
+    "h": 668,
+    "bytes": 53590
+   },
+   {
+    "file": "eex-9674-1800.webp",
+    "w": 1800,
+    "h": 1202,
+    "bytes": 116954
+   },
+   {
+    "file": "eex-9674-2800.webp",
+    "w": 2800,
+    "h": 1869,
+    "bytes": 205724
+   }
+  ]
+ },
+ {
+  "id": "exex-067",
+  "source": "College Events/EXEX-067.jpg",
+  "folder": "College Events",
+  "w": 8256,
+  "h": 5504,
+  "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQBACdASoYABAAPu1Ct1apoqakGAEwHYlkALsAIfDe+LQ4bLw86jWxgAD+9CTdaYSkmJO22RSPWjHLI4FWQfx7K9In8AsBM97dG/X0PZ3AzZMk5aPaLxH8R7nUmNhLTyxUwnBas4xW4V8na7ni6VJDaOiG45UOAOKATLxWno9czBPFvQoSAA==",
+  "color": "#282117",
+  "variants": [
+   {
+    "file": "exex-067-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 18332
+   },
+   {
+    "file": "exex-067-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 54862
+   },
+   {
+    "file": "exex-067-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 125228
+   },
+   {
+    "file": "exex-067-2800.webp",
+    "w": 2800,
+    "h": 1867,
+    "bytes": 224814
+   }
+  ]
+ },
+ {
+  "id": "exex-106",
+  "source": "College Events/EXEX-106.jpg",
+  "folder": "College Events",
+  "w": 2048,
+  "h": 1365,
+  "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaQAIEC59Vto2VwpSq5+Or/jw/OoAAPqRHEJI6qr3K/fOlK5aeM/+ehMo99HCFLF9wBjIq/xP/cGQoYgcRR5t9QSwkA0VkND29/eD78yQ/yOLyaluK8e8Gkh1pf+1Bj0f6xlgMYTpzKpx9KF9FXIAAAA=",
+  "color": "#3d3d3d",
+  "variants": [
+   {
+    "file": "exex-106-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 16880
+   },
+   {
+    "file": "exex-106-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 45232
+   },
+   {
+    "file": "exex-106-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 92674
+   },
+   {
+    "file": "exex-106-2048.webp",
+    "w": 2048,
+    "h": 1365,
+    "bytes": 111670
+   }
+  ]
+ },
+ {
+  "id": "exex-134",
+  "source": "College Events/EXEX-134.jpg",
+  "folder": "College Events",
+  "w": 2048,
+  "h": 1367,
+  "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoADTz+I49Y22mPJSZAA/vKiTGr7Gd/pNxIsDD0Kv8zG43+zT1dHgT1RJ92Mo6KwN3K2CoXuiRG/CsuzOyW/iVUFv6s7hFroezCe5O3qVd5Qbb/qxrkiOzY9hgl6XJwid205B7sYAAA=",
+  "color": "#461f09",
+  "variants": [
+   {
+    "file": "exex-134-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 14498
+   },
+   {
+    "file": "exex-134-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 37680
+   },
+   {
+    "file": "exex-134-1800.webp",
+    "w": 1800,
+    "h": 1201,
+    "bytes": 77268
+   },
+   {
+    "file": "exex-134-2048.webp",
+    "w": 2048,
+    "h": 1367,
+    "bytes": 90598
+   }
+  ]
+ },
+ {
+  "id": "exex-146",
+  "source": "College Events/EXEX-146.jpg",
+  "folder": "College Events",
+  "w": 8256,
+  "h": 5504,
+  "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JQBWABDfcOFXm400HN2nD42cAAP2dNfRzbMrh3VvQVV6BVj3zbeIe8PTpgHF/zXSgNb+TBhcaCIOedF5i7vrQAHi1TdNKCo+rj7opXue99H8ppPgxMa+W9GvrJuOOKrD/wM/LynEj6u6orkOZqKFLHe2mHZV2UsjFnJuvWrXL3J/gAAA=",
+  "color": "#564d49",
+  "variants": [
+   {
+    "file": "exex-146-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 14414
+   },
+   {
+    "file": "exex-146-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 36088
+   },
+   {
+    "file": "exex-146-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 75046
+   },
+   {
+    "file": "exex-146-2800.webp",
+    "w": 2800,
+    "h": 1867,
+    "bytes": 134942
+   }
+  ]
+ },
+ {
+  "id": "exex-184",
+  "source": "College Events/EXEX-184.jpg",
+  "folder": "College Events",
+  "w": 5504,
+  "h": 8256,
+  "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACwAwCdASoQABgAPu1iqk2ppaQiMAgBMB2JYwDCgYvqtgUg/9r9wAD+3fUsBEdrSu4VwVSCO0Sjnf6f3QGJmxhTAOxXIhUKHp5EFHdr8saWP3pHqbfna/buftusIrgDfU1I9zUoTEN+C+5kg+TA2HpwJQ0/fgAWeJqH9r3+Ka2qmrM0mTe5ljkgZ2TWwZ2N6IScCoABgAA=",
+  "color": "#3c3434",
+  "variants": [
+   {
+    "file": "exex-184-480.webp",
+    "w": 320,
+    "h": 480,
+    "bytes": 13502
+   },
+   {
+    "file": "exex-184-1000.webp",
+    "w": 667,
+    "h": 1000,
+    "bytes": 32814
+   },
+   {
+    "file": "exex-184-1800.webp",
+    "w": 1200,
+    "h": 1800,
+    "bytes": 68522
+   },
+   {
+    "file": "exex-184-2800.webp",
+    "w": 1867,
+    "h": 2800,
+    "bytes": 132454
+   }
+  ]
+ },
+ {
+  "id": "exex-189",
+  "source": "College Events/EXEX-189.jpg",
+  "folder": "College Events",
+  "w": 2048,
+  "h": 1365,
+  "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwAAXK1CqCOK2McxkLMVlAD+r6oy6hg1Qix+B4WFcblk6EVCzjLrefMMUvS7REWvvdL2JD8vgYQx/qFtGo+uevr7k/TIvFWswTe/38uEKf/vcGSofo7WRKcburAfQn/oM4HCGAAAAA==",
+  "color": "#bfac92",
+  "variants": [
+   {
+    "file": "exex-189-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 10838
+   },
+   {
+    "file": "exex-189-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 29024
+   },
+   {
+    "file": "exex-189-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 65162
+   },
+   {
+    "file": "exex-189-2048.webp",
+    "w": 2048,
+    "h": 1365,
+    "bytes": 79258
+   }
+  ]
+ },
+ {
+  "id": "exex-193",
+  "source": "College Events/EXEX-193.jpg",
+  "folder": "College Events",
+  "w": 8256,
+  "h": 5504,
+  "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdMoADXyRv/915it9dDMAA/q3VjoKuEQImMhYM01OHvrEfMZeLIBzhynp+23C2CS0A77ZTp4WPOEI/dlRPQDaNQyJf9hs2XXdfcJxzoxoQEeaPY++2zxzk5pbBs6vaTuGEPgPa/fCBFNBPgSl16s58AAAA",
+  "color": "#b37d5c",
+  "variants": [
+   {
+    "file": "exex-193-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 21000
+   },
+   {
+    "file": "exex-193-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 57722
+   },
+   {
+    "file": "exex-193-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 128844
+   },
+   {
+    "file": "exex-193-2800.webp",
+    "w": 2800,
+    "h": 1867,
+    "bytes": 229850
+   }
+  ]
+ },
+ {
+  "id": "exex-201",
+  "source": "College Events/EXEX-201.jpg",
+  "folder": "College Events",
+  "w": 1865,
+  "h": 4016,
+  "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwAwCdASoLABgAPu1iqU2ppaOiMAgBMB2JZACdACHcqzIiNXzJyC4AAP66LQeUXJSY+oYODfWDc1CCnVw8S8KmcA15XcT8nOFvN2tgDyUCq7yB9MzckCr3LRKPC1l2JFNcTvsfU1Cah2WaTpJJflNVmV2uYy0rauiA0AAA",
+  "color": "#7e7058",
+  "variants": [
+   {
+    "file": "exex-201-480.webp",
+    "w": 223,
+    "h": 480,
+    "bytes": 12532
+   },
+   {
+    "file": "exex-201-1000.webp",
+    "w": 464,
+    "h": 1000,
+    "bytes": 34108
+   },
+   {
+    "file": "exex-201-1800.webp",
+    "w": 836,
+    "h": 1800,
+    "bytes": 74262
+   },
+   {
+    "file": "exex-201-2800.webp",
+    "w": 1300,
+    "h": 2800,
+    "bytes": 144100
+   }
+  ]
+ },
+ {
+  "id": "exex-217",
+  "source": "College Events/EXEX-217.jpg",
+  "folder": "College Events",
+  "w": 3936,
+  "h": 2624,
+  "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdIDZgsxNJ6DK2X0y+jMAA/gS9lRXhuiulRMX4v2TCBDUtxcEprvqhhBB7zjdkAlNasZ2JdY0S0voXaoEizKC74nNbiFCyx55rw/k78KigFqqmx82jaEJk91NWMUtiIVjfMUBQjXhrNhGV/PUKr5Z0uXZCmdUHj8/4Gb6ubMuD2effwkUhbxt+uKddREAAAA==",
+  "color": "#6a5e59",
+  "variants": [
+   {
+    "file": "exex-217-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 13848
+   },
+   {
+    "file": "exex-217-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 36078
+   },
+   {
+    "file": "exex-217-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 80722
+   },
+   {
+    "file": "exex-217-2800.webp",
+    "w": 2800,
+    "h": 1867,
+    "bytes": 145472
+   }
+  ]
+ },
+ {
+  "id": "exex-331",
+  "source": "College Events/EXEX-331.jpg",
+  "folder": "College Events",
+  "w": 4016,
+  "h": 6016,
+  "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADwAwCdASoQABgAPu1qrU8ppiQiMAgBMB2JZACdMoAC/JaUTLvYlGgAAPewl+K/wSlOcmed/ZFnY37ZxnCeEDgPByAyCYTGwlg9LdwajjSnUbOIBzbXw0HPongiQzNj6rRJN8PBnXX/PKEZ7tIiLqErgdfYlYmECT/0x1/mP+oLfb8aOddj7tBwhIoAAA==",
+  "color": "#8f8591",
+  "variants": [
+   {
+    "file": "exex-331-480.webp",
+    "w": 320,
+    "h": 480,
+    "bytes": 14068
+   },
+   {
+    "file": "exex-331-1000.webp",
+    "w": 668,
+    "h": 1000,
+    "bytes": 47710
+   },
+   {
+    "file": "exex-331-1800.webp",
+    "w": 1202,
+    "h": 1800,
+    "bytes": 119262
+   },
+   {
+    "file": "exex-331-2800.webp",
+    "w": 1869,
+    "h": 2800,
+    "bytes": 229366
+   }
+  ]
+ },
+ {
+  "id": "exex-348",
+  "source": "College Events/EXEX-348.jpg",
+  "folder": "College Events",
+  "w": 8256,
+  "h": 5504,
+  "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdACLNH6Z6hvuGw8wA4fkhTzPweT8nM+Yd1aOfF5vvGVutbKxaEwAum8/ZxQmfiRGb0gM3YxjaQ/XfnmY3h8bSz8hzt+i7UsYD8ZS+mgBPazbEM7Z6rZDTzSFfmKfEMHjmCjqGJ0h8H9pKM+bZ+BIfsH9XSnhO4cvLZKEbws2gu+S7emf9Oq3vsa0N4mi3jfUiX6P17ZUeodunQAAA",
+  "color": "#2a2354",
+  "variants": [
+   {
+    "file": "exex-348-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 19136
+   },
+   {
+    "file": "exex-348-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 50150
+   },
+   {
+    "file": "exex-348-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 113146
+   },
+   {
+    "file": "exex-348-2800.webp",
+    "w": 2800,
+    "h": 1867,
+    "bytes": 218854
+   }
+  ]
+ },
+ {
+  "id": "exex-373",
+  "source": "College Events/EXEX-373.jpg",
+  "folder": "College Events",
+  "w": 8256,
+  "h": 5504,
+  "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZwDKACG7XDZNAQoSdu+AAP70JOSKa8RILMLj5y/MT0IzsX4mZ/v84yUWH9TwLJL7vH+unSKWG4Wr8rRDmHLuxQBZAAAA",
+  "color": "#06090e",
+  "variants": [
+   {
+    "file": "exex-373-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 7052
+   },
+   {
+    "file": "exex-373-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 18442
+   },
+   {
+    "file": "exex-373-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 38156
+   },
+   {
+    "file": "exex-373-2800.webp",
+    "w": 2800,
+    "h": 1867,
+    "bytes": 69974
+   }
+  ]
+ },
+ {
+  "id": "exex-423",
+  "source": "College Events/EXEX-423.jpg",
+  "folder": "College Events",
+  "w": 3936,
+  "h": 2624,
+  "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBadBFjXZIUSAH7cFPWEcIAA/uPg3Pxk67WxPlve8txLXCgpVg1ArEwF1k0ri6K0pYs+JlNTxxLRccn6f9dytOK5HxpHcUmA7+KgpXM1dCdszCqkEn0TNz16yB74gd0Ou7EBh6LoE/4kNjmdXmdppbYiSJOKm/Eb5e3xweHqOc+DNtFAAA==",
+  "color": "#3e422b",
+  "variants": [
+   {
+    "file": "exex-423-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 32434
+   },
+   {
+    "file": "exex-423-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 93156
+   },
+   {
+    "file": "exex-423-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 202120
+   },
+   {
+    "file": "exex-423-2800.webp",
+    "w": 2800,
+    "h": 1867,
+    "bytes": 375778
+   }
+  ]
+ },
+ {
+  "id": "exex-441",
+  "source": "College Events/EXEX-441.jpg",
+  "folder": "College Events",
+  "w": 8256,
+  "h": 5504,
+  "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBdgMYYUhyXszNXbIt1v3YAA/r5YHd+rlizK0xc3R86gus3FMbsTAnGtGgxZEg8yvqIBra5y5KZXRk9b1pk9ICxq143M/0NGl1iXC3sY/3PWQOP4kdBHK32ldliiQ5zkO7NcpuAzc0TLjCr9LGBEufxq7FXcYeDH+0OsGhMgITZvM9ECrR+t6wpT3fcMQCfhy6T4GXDKpo4A",
+  "color": "#524a38",
+  "variants": [
+   {
+    "file": "exex-441-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 17162
+   },
+   {
+    "file": "exex-441-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 42004
+   },
+   {
+    "file": "exex-441-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 92070
+   },
+   {
+    "file": "exex-441-2800.webp",
+    "w": 2800,
+    "h": 1867,
+    "bytes": 235762
+   }
+  ]
+ },
+ {
+  "id": "img-0852",
+  "source": "College Events/IMG_0852.JPG.jpeg",
+  "folder": "College Events",
+  "w": 8256,
+  "h": 5504,
+  "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZwAD5YoN9xDRf6H+hLIDgQAA/vQrW6hOBtvvucoCVRGPk/nBMIRGXDNnPxgVpkOjBEc08SlbY/lcavq1pFhtV7i8n24X2leIJ/h4ZqByVUL8f4HMz033h0mt6Co4gd/8mGzhtiGQrfv63lWJh3lH6G+PqA9QAAA=",
+  "color": "#30302d",
+  "variants": [
+   {
+    "file": "img-0852-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 14876
+   },
+   {
+    "file": "img-0852-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 43516
+   },
+   {
+    "file": "img-0852-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 111148
+   },
+   {
+    "file": "img-0852-2800.webp",
+    "w": 2800,
+    "h": 1867,
+    "bytes": 264566
+   }
+  ]
+ },
+ {
+  "id": "img-0860",
+  "source": "College Events/IMG_0860.JPG.jpeg",
+  "folder": "College Events",
+  "w": 8256,
+  "h": 5504,
+  "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdMoAC/EBEvdmgAAD+8XRDzNk7HktTxmKkqHjfMrI+3nDzhKrA/ePldKdPA+zTCASRsrOfjvDpRXU3YV8UBkr2k8X+4f+3WM/9qkS4cs7OdEPPWkgA",
+  "color": "#0f132e",
+  "variants": [
+   {
+    "file": "img-0860-480.webp",
+    "w": 480,
+    "h": 320,
+    "bytes": 16806
+   },
+   {
+    "file": "img-0860-1000.webp",
+    "w": 1000,
+    "h": 667,
+    "bytes": 48170
+   },
+   {
+    "file": "img-0860-1800.webp",
+    "w": 1800,
+    "h": 1200,
+    "bytes": 118730
+   },
+   {
+    "file": "img-0860-2800.webp",
+    "w": 2800,
+    "h": 1867,
+    "bytes": 313596
+   }
+  ]
+ },
+ {
+  "id": "exex-389",
+  "source": "Randoms/EXEX-389.jpg",
+  "folder": "Randoms",
+  "w": 2048,
+  "h": 1159,
+  "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACwAwCdASoYAA4APu1orU2ppqSiMAgBMB2JYwC7AGGyPekdwSHiYAD+70vao0sxe53FQ9WlALXogSfhpL8vfQSM+7nrB/l2rlmwDuRrny3z7P+ktGvxJCeVvTGHS90K2WrgBUMSnq6nVZBwPitEAAAA",
+  "color": "#484233",
+  "variants": [
+   {
+    "file": "exex-389-480.webp",
+    "w": 480,
+    "h": 271,
+    "bytes": 27228
+   },
+   {
+    "file": "exex-389-1000.webp",
+    "w": 1000,
+    "h": 566,
+    "bytes": 119872
+   },
+   {
+    "file": "exex-389-1800.webp",
+    "w": 1800,
+    "h": 1019,
+    "bytes": 331332
+   },
+   {
+    "file": "exex-389-2048.webp",
+    "w": 2048,
+    "h": 1159,
+    "bytes": 414994
+   }
+  ]
+ },
+ {
+  "id": "exex-390",
+  "source": "Randoms/EXEX-390.jpg",
+  "folder": "Randoms",
+  "w": 1152,
+  "h": 2048,
+  "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABQBACdASoOABgAPu1kqk2ppaQiMAgBMB2JQBfnMYYVXGd+EKFewGCcoiVEAPzGXn7Ifuk9QYTcbn6pV3WGlbCNUiuW71jA+tVpcjy3qlh94/Nl/DB9D+fEuiou3xf89vHh4BME1zD3Wf8wwjamp6V0lEW+BzivjEtOgG3+he0rFlg8LerOn1hw7dnER46WKU1vSmFlVZr6+pwAAAA=",
+  "color": "#595854",
+  "variants": [
+   {
+    "file": "exex-390-480.webp",
+    "w": 270,
+    "h": 480,
+    "bytes": 15212
+   },
+   {
+    "file": "exex-390-1000.webp",
+    "w": 563,
+    "h": 1000,
+    "bytes": 57446
+   },
+   {
+    "file": "exex-390-1800.webp",
+    "w": 1013,
+    "h": 1800,
+    "bytes": 160890
+   },
+   {
+    "file": "exex-390-2048.webp",
+    "w": 1152,
+    "h": 2048,
+    "bytes": 204050
+   }
+  ]
+ },
+ {
+  "id": "hrs01542",
+  "source": "Randoms/HRS01542.JPG",
+  "folder": "Randoms",
+  "w": 3000,
+  "h": 2400,
+  "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABQBACdASoYABMAPu1orVCppaQiqAqpMB2JQBbZAe0ee17AIXxRdFTgGeAAAP7r/nyU6e1xpsAdNFd6gLcwyWA81RHDxQXqQPI69RgX2HkB0Q+o7n6DUr1YL6gwO3Hkvo7dngUfS2K/3X7t1vhboARHW63d3fQKqF7EiOjTKVU1ui7AAAA=",
+  "color": "#2a3b1b",
+  "variants": [
+   {
+    "file": "hrs01542-480.webp",
+    "w": 480,
+    "h": 384,
+    "bytes": 49254
+   },
+   {
+    "file": "hrs01542-1000.webp",
+    "w": 1000,
+    "h": 800,
+    "bytes": 153950
+   },
+   {
+    "file": "hrs01542-1800.webp",
+    "w": 1800,
+    "h": 1440,
+    "bytes": 352192
+   },
+   {
+    "file": "hrs01542-2800.webp",
+    "w": 2800,
+    "h": 2240,
+    "bytes": 637380
+   }
+  ]
+ },
+ {
+  "id": "img-2657",
+  "source": "Randoms/IMG_2657.PNG",
+  "folder": "Randoms",
+  "w": 1667,
+  "h": 942,
+  "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAwAwCdASoYAA4APu1iqk4tJaQiMAgBoB2JZQC7AC0HmbGAAP7r+LC/SkTdWOT0n1WSGttYAAA=",
+  "color": "#354257",
+  "variants": [
+   {
+    "file": "img-2657-480.webp",
+    "w": 480,
+    "h": 271,
+    "bytes": 8014
+   },
+   {
+    "file": "img-2657-1000.webp",
+    "w": 1000,
+    "h": 565,
+    "bytes": 21790
+   },
+   {
+    "file": "img-2657-1667.webp",
+    "w": 1667,
+    "h": 942,
+    "bytes": 42258
+   }
+  ]
+ },
+ {
+  "id": "file-000000003e688211b1d3e5cf64c42067",
+  "source": "Randoms/file_000000003e688211b1d3e5cf64c42067.png",
+  "folder": "Randoms",
+  "w": 803,
+  "h": 1071,
+  "lqip": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAACQBQCdASoSABgAPu1sq1EppaOiqAqpMB2JQBTjDsFMB75BSz1LASc/ICGY6zQB7S55gqyCAAD+GMRjpkdNIru2anCJnk2fZHwKNqgUQmc9wFFWa9Oe+4m3uP56g+lrNcq4a9e8bPEMDthOVKmPMWXe7WWXLe1+10/BvMr6si1bVFkvjaIiueqRkQpnbhvOOx+cAUtvyXfo8iG4J9IfqCEAoPf9N7Pm2RuF9hG2V6Yf8QMBNYV8JHtHxZrnkdRS4mwsXYHPmQ1l4AAA",
+  "color": "#5a5f4b",
+  "variants": [
+   {
+    "file": "file-000000003e688211b1d3e5cf64c42067-480.webp",
+    "w": 360,
+    "h": 480,
+    "bytes": 35142
+   },
+   {
+    "file": "file-000000003e688211b1d3e5cf64c42067-1000.webp",
+    "w": 750,
+    "h": 1000,
+    "bytes": 89766
+   }
+  ]
+ },
+ {
+  "id": "exex-10",
+  "source": "iPhone (No Pro Mode)/EXEX-10.jpg",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 7921,
+  "h": 4520,
+  "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoYAA4APu1iqU2ppaQiMAgBMB2JZQCdACHc7gKnK1V1H+OZAAD+wGKyG5i3HAx7yy8VeguG+7RYO4UM5bC9M0l7lu2nPv8c3u9u23zYRTxjtqLYOOB9pctjobA4hYNwmrubwX+LliO1eMNdFsTrngeFIcB8wrAA",
+  "color": "#494540",
+  "variants": [
+   {
+    "file": "exex-10-480.webp",
+    "w": 480,
+    "h": 274,
+    "bytes": 14874
+   },
+   {
+    "file": "exex-10-1000.webp",
+    "w": 1000,
+    "h": 571,
+    "bytes": 42380
+   },
+   {
+    "file": "exex-10-1800.webp",
+    "w": 1800,
+    "h": 1027,
+    "bytes": 90982
+   },
+   {
+    "file": "exex-10-2800.webp",
+    "w": 2800,
+    "h": 1598,
+    "bytes": 160694
+   }
+  ]
+ },
+ {
+  "id": "img-0559",
+  "source": "iPhone (No Pro Mode)/IMG_0559.jpg",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 3024,
+  "h": 4032,
+  "lqip": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAABQBQCdASoSABgAPu1ur1IppiQiqAgBMB2JQBOmUJBTOiqN1wqGKkk0maDzxgSBjqyOkMAA/unrbBqUNEA8YwdZkfK1oipVbXmbACQpJ4k11epIpV5BFGffLjB4U4pHr+PhiTqf3YT1mXNibWwHunUycvh+cXPLoamSx/70lukb7VwUCi33DEanKVOgQJaw/GxAAmLr1BIXvqTnNBVb9tUlpUA+IMYK27lfJ2M2x955UIfVFG52EYueIgEgPURQD2eOdCXovKH8TODSr7aMzvIC4AA=",
+  "color": "#6d819b",
+  "variants": [
+   {
+    "file": "img-0559-480.webp",
+    "w": 360,
+    "h": 480,
+    "bytes": 38310
+   },
+   {
+    "file": "img-0559-1000.webp",
+    "w": 750,
+    "h": 1000,
+    "bytes": 125934
+   },
+   {
+    "file": "img-0559-1800.webp",
+    "w": 1350,
+    "h": 1800,
+    "bytes": 304436
+   },
+   {
+    "file": "img-0559-2800.webp",
+    "w": 2100,
+    "h": 2800,
+    "bytes": 564572
+   }
+  ]
+ },
+ {
+  "id": "img-1122",
+  "source": "iPhone (No Pro Mode)/IMG_1122.jpg",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 3843,
+  "h": 2162,
+  "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBACdASoYAA4APu1kqk2ppaQiMAgBMB2JZQCsAYq031UrGoqDpSuswAD+9ByWDLk8eAbI071En7B209csngleOrk51Vp4fy6TVB7jjti/zyiHBR4e36ODrAC9fSrexDFOylXwAAA=",
+  "color": "#201911",
+  "variants": [
+   {
+    "file": "img-1122-480.webp",
+    "w": 480,
+    "h": 270,
+    "bytes": 5946
+   },
+   {
+    "file": "img-1122-1000.webp",
+    "w": 1000,
+    "h": 563,
+    "bytes": 17590
+   },
+   {
+    "file": "img-1122-1800.webp",
+    "w": 1800,
+    "h": 1013,
+    "bytes": 41334
+   },
+   {
+    "file": "img-1122-2800.webp",
+    "w": 2800,
+    "h": 1575,
+    "bytes": 81262
+   }
+  ]
+ },
+ {
+  "id": "img-1124",
+  "source": "iPhone (No Pro Mode)/IMG_1124.jpg",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 4032,
+  "h": 2268,
+  "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABwBACdASoYAA0APu1iqU2ppaOiMAgBMB2JbACdMoGv/gOfm/Hjf+fYUrV/oAD+sBs4rX9cBrda7pyFQ3f4QEEZ17MPigU6ciDYMbv/PG6W4KgcZfAbRrsUurofsdKp/AY6XFn94clb1cIz/VQ4UEMDbyO+wYbDEg8DCREo/gW1a6MYS/EM3TkDoDLGj+bPPECq+C1PXLmbJbmAs+JKoUAA74kUKQQYajojgAAA",
+  "color": "#be7641",
+  "variants": [
+   {
+    "file": "img-1124-480.webp",
+    "w": 480,
+    "h": 270,
+    "bytes": 24044
+   },
+   {
+    "file": "img-1124-1000.webp",
+    "w": 1000,
+    "h": 563,
+    "bytes": 86326
+   },
+   {
+    "file": "img-1124-1800.webp",
+    "w": 1800,
+    "h": 1012,
+    "bytes": 307078
+   },
+   {
+    "file": "img-1124-2800.webp",
+    "w": 2800,
+    "h": 1575,
+    "bytes": 795176
+   }
+  ]
+ },
+ {
+  "id": "img-1935",
+  "source": "iPhone (No Pro Mode)/IMG_1935.PNG",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 590,
+  "h": 1057,
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAwCdASoNABgAPu1yrU+pp6QiMAgBMB2JYwAAW9pse95Mtwkk/hGAAP7ug2QdDNqTW/hhdUN9sjV38bvuaP52kG5/Kf4IxBNC08kqAAA=",
+  "color": "#27232d",
+  "variants": [
+   {
+    "file": "img-1935-480.webp",
+    "w": 268,
+    "h": 480,
+    "bytes": 4318
+   },
+   {
+    "file": "img-1935-1000.webp",
+    "w": 558,
+    "h": 1000,
+    "bytes": 12358
+   }
+  ]
+ },
+ {
+  "id": "img-1968",
+  "source": "iPhone (No Pro Mode)/IMG_1968.jpg",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 2210,
+  "h": 3928,
+  "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADQAwCdASoNABgAPu1kqU2ppaQiMAgBMB2JQAALfWKe7XlduQi4reAA/jR9znvKNDrj8RyUCkbVfO8eL2R1+7/8RZB329G3aknnnF1GQg/koH5av8IS/oiiQ7pyOSTXMiPFZ5UKyTU32kfKIfEr2+D6MTCTTODlHYWK2UCiKJAAAA==",
+  "color": "#5a4928",
+  "variants": [
+   {
+    "file": "img-1968-480.webp",
+    "w": 270,
+    "h": 480,
+    "bytes": 14482
+   },
+   {
+    "file": "img-1968-1000.webp",
+    "w": 563,
+    "h": 1000,
+    "bytes": 56712
+   },
+   {
+    "file": "img-1968-1800.webp",
+    "w": 1013,
+    "h": 1800,
+    "bytes": 162782
+   },
+   {
+    "file": "img-1968-2800.webp",
+    "w": 1575,
+    "h": 2800,
+    "bytes": 332642
+   }
+  ]
+ },
+ {
+  "id": "img-2136",
+  "source": "iPhone (No Pro Mode)/IMG_2136.JPG.jpeg",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 2268,
+  "h": 4032,
+  "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoNABgAPu1mqk2ppaQiMAgBMB2JZACdACHfjf3eh8jUOiwA/uvZC0WRREjdAudq15XKk4gKRV75qI2+4whc7rojdFpzvcdrOVKzAidgAAA=",
+  "color": "#122633",
+  "variants": [
+   {
+    "file": "img-2136-480.webp",
+    "w": 270,
+    "h": 480,
+    "bytes": 3430
+   },
+   {
+    "file": "img-2136-1000.webp",
+    "w": 563,
+    "h": 1000,
+    "bytes": 9290
+   },
+   {
+    "file": "img-2136-1800.webp",
+    "w": 1012,
+    "h": 1800,
+    "bytes": 21400
+   },
+   {
+    "file": "img-2136-2800.webp",
+    "w": 1575,
+    "h": 2800,
+    "bytes": 41568
+   }
+  ]
+ },
+ {
+  "id": "img-2353",
+  "source": "iPhone (No Pro Mode)/IMG_2353.jpg",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 2992,
+  "h": 3989,
+  "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAwCdASoSABgAPu1mq02ppaQiMAgBMB2JZwDE2DBzXUN6L66AAP7w2hVru6WVgnf0opxaBMQTf4kW8T5ykdoyLV0bsZOC8UsY+Ssch8ouvnijY3phKKBtEkrPSviK75wgRAAA",
+  "color": "#120c05",
+  "variants": [
+   {
+    "file": "img-2353-480.webp",
+    "w": 360,
+    "h": 480,
+    "bytes": 7778
+   },
+   {
+    "file": "img-2353-1000.webp",
+    "w": 750,
+    "h": 1000,
+    "bytes": 24534
+   },
+   {
+    "file": "img-2353-1800.webp",
+    "w": 1350,
+    "h": 1800,
+    "bytes": 58892
+   },
+   {
+    "file": "img-2353-2800.webp",
+    "w": 2100,
+    "h": 2800,
+    "bytes": 106492
+   }
+  ]
+ },
+ {
+  "id": "img-2426",
+  "source": "iPhone (No Pro Mode)/IMG_2426.jpg",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 2670,
+  "h": 3560,
+  "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAADwBQCdASoSABgAPu1irFAppSQisBgIATAdiWoAuzM0PiaB4f4BmAKV8lbmiVaHeeB5shBsMjOAAAD9k0EyyYDK9liDRUZIdx2kR3dYTveN12T9jh3enNdyCo7aAgI65hDNxCrqfOum0CMfDvIAh7Q01LcQp4LImljLQCrvGooO62h8ZmTTFZLnaJOKTmKx6L/kVddUAAA=",
+  "color": "#be9ba0",
+  "variants": [
+   {
+    "file": "img-2426-480.webp",
+    "w": 360,
+    "h": 480,
+    "bytes": 12342
+   },
+   {
+    "file": "img-2426-1000.webp",
+    "w": 750,
+    "h": 1000,
+    "bytes": 41098
+   },
+   {
+    "file": "img-2426-1800.webp",
+    "w": 1350,
+    "h": 1800,
+    "bytes": 112434
+   },
+   {
+    "file": "img-2426-2800.webp",
+    "w": 2100,
+    "h": 2800,
+    "bytes": 257142
+   }
+  ]
+ },
+ {
+  "id": "img-2889",
+  "source": "iPhone (No Pro Mode)/IMG_2889.jpg",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 2245,
+  "h": 3992,
+  "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoNABgAPu1yrU+pp6QiMAgBMB2JagCdHX+hYpY8S/TPQLQ5+AD++qei30lueZTy5E6aWj+unHX+0j8Yd4E2J1KPc7SwrzA35Rnr1cPKGxmc4HjP1yf+DkjZz/wckaeuEXpBUvd696NXYDaOXGpTPnOccoKhs26AAAA=",
+  "color": "#876648",
+  "variants": [
+   {
+    "file": "img-2889-480.webp",
+    "w": 270,
+    "h": 480,
+    "bytes": 10758
+   },
+   {
+    "file": "img-2889-1000.webp",
+    "w": 562,
+    "h": 1000,
+    "bytes": 40312
+   },
+   {
+    "file": "img-2889-1800.webp",
+    "w": 1012,
+    "h": 1800,
+    "bytes": 107602
+   },
+   {
+    "file": "img-2889-2800.webp",
+    "w": 1575,
+    "h": 2800,
+    "bytes": 207928
+   }
+  ]
+ },
+ {
+  "id": "img-3082",
+  "source": "iPhone (No Pro Mode)/IMG_3082.jpg",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 4032,
+  "h": 3024,
+  "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADQBACdASoYABIAPu1krVAppSQisBgIATAdiWQAsOwZVFwRjuxkh/2waRgtB9R+AAD+8LeIK0VjDZrU8uLQ0dkWoLHjTdRhWrzPF6wtO47wvECc01fs8zHvlnkcmaBYvm9i0ZhnuJQK8ajgl0rxcWf4f3Sw8pUiBPGNyWVPz4+eSznU355OYAAA",
+  "color": "#0f0f2f",
+  "variants": [
+   {
+    "file": "img-3082-480.webp",
+    "w": 480,
+    "h": 360,
+    "bytes": 15078
+   },
+   {
+    "file": "img-3082-1000.webp",
+    "w": 1000,
+    "h": 750,
+    "bytes": 56204
+   },
+   {
+    "file": "img-3082-1800.webp",
+    "w": 1800,
+    "h": 1350,
+    "bytes": 133916
+   },
+   {
+    "file": "img-3082-2800.webp",
+    "w": 2800,
+    "h": 2100,
+    "bytes": 241214
+   }
+  ]
+ },
+ {
+  "id": "img-3151",
+  "source": "iPhone (No Pro Mode)/IMG_3151.PNG",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 814,
+  "h": 1448,
+  "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwAwCdASoNABgALrV2u12jqampiYC0S2AFYAIeFo/zVJMgbYAA/vV0bR896Pt87/EEdgt3gO68/vvJzbirOaxjO8X1bxUSCQPJwXACeHuQAA==",
+  "color": "#53270e",
+  "variants": [
+   {
+    "file": "img-3151-480.webp",
+    "w": 270,
+    "h": 480,
+    "bytes": 2364
+   },
+   {
+    "file": "img-3151-1000.webp",
+    "w": 562,
+    "h": 1000,
+    "bytes": 7402
+   },
+   {
+    "file": "img-3151-1448.webp",
+    "w": 814,
+    "h": 1448,
+    "bytes": 13196
+   }
+  ]
+ },
+ {
+  "id": "img-6839",
+  "source": "iPhone (No Pro Mode)/IMG_6839.jpg",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 3003,
+  "h": 3003,
+  "lqip": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAABQBQCdASoYABgAPu1sqk6ppqOiMBgIATAdiUAYVl5ApBkkpTcdTnNIarg7Mecg4tWUm6AA/vaGCgLXg5x7PQbpdMyj+S9X584tAej6WJWNADVlb2EyFLECFjOczyQmPta7rUYqT7pL0wYjUR9kvtiVPVOPgS8T8F58SziL1jkN18jfiN1wGFnxchcwbTo/tIg45ch9verJ1J1XQd3joTp2hVwD4osU3FRU+Jw+RVI+Wo5aa5wTMj2hboNWImZ0B81QtDmWiPalTJkxsF/kKmNkoQTF4uxSJFU9LregTr0//8gtAAA=",
+  "color": "#555146",
+  "variants": [
+   {
+    "file": "img-6839-480.webp",
+    "w": 480,
+    "h": 480,
+    "bytes": 40882
+   },
+   {
+    "file": "img-6839-1000.webp",
+    "w": 1000,
+    "h": 1000,
+    "bytes": 160758
+   },
+   {
+    "file": "img-6839-1800.webp",
+    "w": 1800,
+    "h": 1800,
+    "bytes": 441630
+   },
+   {
+    "file": "img-6839-2800.webp",
+    "w": 2800,
+    "h": 2800,
+    "bytes": 808986
+   }
+  ]
+ },
+ {
+  "id": "img-9413",
+  "source": "iPhone (No Pro Mode)/IMG_9413.JPG.jpeg",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 3024,
+  "h": 4032,
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABQAwCdASoSABgAPu1mqk2ppaQiMAgBMB2JYwAAfFKQbE/QgAD+8LOv13DOltPiFr5lPqqSfiAX/aX8vnn0s+EogwbdmogZzqSmg8ZAAAA=",
+  "color": "#080c0d",
+  "variants": [
+   {
+    "file": "img-9413-480.webp",
+    "w": 360,
+    "h": 480,
+    "bytes": 4366
+   },
+   {
+    "file": "img-9413-1000.webp",
+    "w": 750,
+    "h": 1000,
+    "bytes": 11594
+   },
+   {
+    "file": "img-9413-1800.webp",
+    "w": 1350,
+    "h": 1800,
+    "bytes": 24114
+   },
+   {
+    "file": "img-9413-2800.webp",
+    "w": 2100,
+    "h": 2800,
+    "bytes": 45340
+   }
+  ]
+ },
+ {
+  "id": "img-9685",
+  "source": "iPhone (No Pro Mode)/IMG_9685.jpg",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 3024,
+  "h": 4032,
+  "lqip": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAABwBQCdASoSABgAPu1qr1CppaQiqAqpMB2JZgCdM4IvwAH1fRgQwqMY+E8Zv8+FvRU7JbO4AP7w4k9Vp0CpuOp43a7hmzN7kv0cgyaEvk0JWZumElrK3R4wQsMzV3xYvuV7cJqynlbWQ5YIKChrgRCMqyWDl20iszdBFt4EOIwz1M21YNlDTC/kdHBXaZnkBezd30zyYFrGf0uNqYg/PlONNri0r8m5lSJn573AMXVc0Z9Ym3ZqyRJ93g4JH4wYSdDUoirYDBTyS9xxleRk486bHld+oO1B4bAAAA==",
+  "color": "#59423e",
+  "variants": [
+   {
+    "file": "img-9685-480.webp",
+    "w": 360,
+    "h": 480,
+    "bytes": 61932
+   },
+   {
+    "file": "img-9685-1000.webp",
+    "w": 750,
+    "h": 1000,
+    "bytes": 247838
+   },
+   {
+    "file": "img-9685-1800.webp",
+    "w": 1350,
+    "h": 1800,
+    "bytes": 649506
+   },
+   {
+    "file": "img-9685-2800.webp",
+    "w": 2100,
+    "h": 2800,
+    "bytes": 1173522
+   }
+  ]
+ },
+ {
+  "id": "sunset-shoreline-silhouettes",
+  "source": "iPhone (No Pro Mode)/Sunset Shoreline Silhouettes.png",
+  "folder": "iPhone (No Pro Mode)",
+  "w": 1086,
+  "h": 1448,
+  "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwBACdASoSABgAPu1mrE+ppSQiMBgIATAdiWgAnTMy/OV/QVWHGa4YMwg+u34IAtgA+mDGNre3Qy8Uen9oGWAeBBL7dOotxDi3xLAi8++M6qM5v39MWWxbUk99iqS4SKTWQzA/ugyFrBxRxvmq/sBl02c3efXJtlbfVSuuYmPufdNJ4EJ1rAAA",
+  "color": "#996141",
+  "variants": [
+   {
+    "file": "sunset-shoreline-silhouettes-480.webp",
+    "w": 360,
+    "h": 480,
+    "bytes": 14960
+   },
+   {
+    "file": "sunset-shoreline-silhouettes-1000.webp",
+    "w": 750,
+    "h": 1000,
+    "bytes": 51132
+   },
+   {
+    "file": "sunset-shoreline-silhouettes-1448.webp",
+    "w": 1086,
+    "h": 1448,
+    "bytes": 84896
+   }
+  ]
+ }
+]

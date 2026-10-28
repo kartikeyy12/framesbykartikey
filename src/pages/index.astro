@@ -1,0 +1,223 @@
+---
+import Base from "../layouts/Base.astro";
+import Logo from "../components/Logo.astro";
+import { collections, inCollection, photos, srcset, url, type Photo } from "../data/photos";
+import { layoutField, type FieldIn, type FieldTier } from "../data/field";
+import { RANK, type Tier } from "../data/ranking";
+
+const EMAIL = "kartikey120207@gmail.com";
+const mid = (p: Photo) => p.variants[Math.min(1, p.variants.length - 1)];
+const big = (p: Photo) => p.variants[p.variants.length - 1];
+const ar = (p: Photo) => p.w / p.h;
+const kindOf = (p: Photo) => (ar(p) > 1.15 ? "land" : ar(p) < 0.9 ? "port" : "sq");
+
+/* ── Opening field ────────────────────────────────────────────────────────────
+   The top of the ranking (S, A and the start of B) goes on the field. Rank decides
+   distance from the centre and print size; see src/data/field.ts. A landscape layout
+   serves wide screens, a second one shaped for portrait screens serves phones and tablets. */
+const FIELD_COUNT = 32;
+const fieldPhotos = RANK.slice(0, FIELD_COUNT).flatMap((id) => photos.find((p) => p.id === id) ?? []);
+const fieldIn: FieldIn[] = fieldPhotos.map((p) => ({ id: p.id, ar: ar(p), tier: p.tier as FieldTier }));
+const wide = layoutField(fieldIn, 96, 40);
+const tall = layoutField(fieldIn, 40, 82);
+const fieldItems = fieldPhotos.map((p, i) => ({ p, a: wide.items[i], b: tall.items[i] }));
+
+/* ── Catalogue ────────────────────────────────────────────────────────────────
+   Each collection is shown in rank order. Hero prints (S) stand alone, centred and large;
+   everything else pairs up and steps down in size with its tier. 24 columns on desktop, 6 on mobile. */
+const DS: Record<Tier, Record<string, number>> = {
+  S: { land: 18, port: 10, sq: 14 },
+  A: { land: 12, port: 8, sq: 10 },
+  B: { land: 10, port: 6, sq: 8 },
+  C: { land: 8, port: 6, sq: 6 },
+};
+const MS: Record<Tier, Record<string, number>> = {
+  S: { land: 6, port: 6, sq: 6 },
+  A: { land: 6, port: 5, sq: 5 },
+  B: { land: 5, port: 4, sq: 4 },
+  C: { land: 4, port: 4, sq: 4 }, // never below 4 of 6, so two photographs can't share a row on a phone
+};
+interface Cell { p: Photo; ds: number; dc: number; ms: number; mc: number }
+interface Row { tier: Tier; align: string; cells: Cell[] }
+
+function compose(items: Photo[]): Row[] {
+  const rows: Row[] = [];
+  let n = 0; // photographs placed so far, for the mobile left/right alternation
+  for (let i = 0, r = 0; i < items.length; r++) {
+    const a = items[i];
+    const b = items[i + 1];
+    const group = a.tier !== "S" && b && b.tier !== "S" ? [a, b] : [a];
+    i += group.length;
+    const ds = group.map((p) => DS[p.tier][kindOf(p)]);
+    const ms = group.map((p) => MS[p.tier][kindOf(p)]);
+    const mc = group.map((_, k) => (group[k].tier === "S" || (n + k) % 2 === 0 ? 1 : 7 - ms[k]));
+    n += group.length;
+
+    let dc: number[];
+    if (group[0].tier === "S") dc = [1 + (24 - ds[0]) / 2];
+    else if (group.length === 1) dc = [r % 2 ? 25 - ds[0] - 1 : 2];
+    else {
+      // higher rank goes left on even rows and right on odd rows; edge offsets vary so the page doesn't read as two flush columns
+      const slack = 24 - ds[0] - ds[1];
+      const offA = Math.min([0, 2, 1][r % 3], slack >> 1);
+      const offB = Math.min([2, 0, 1][r % 3], slack - offA);
+      const left = r % 2 ? 1 : 0;
+      const right = 1 - left;
+      dc = [0, 0];
+      dc[left] = 1 + offA;
+      dc[right] = 25 - ds[right] - offB;
+    }
+    rows.push({
+      tier: a.tier,
+      align: ["end", "start", "center"][r % 3],
+      cells: group.map((p, k) => ({ p, ds: ds[k], dc: dc[k], ms: ms[k], mc: mc[k] })),
+    });
+  }
+  return rows;
+}
+
+const sizesFor = (w: number) =>
+  `(max-aspect-ratio: 1/1) and (max-width: 600px) ${Math.round(w * 2.3)}vw, (max-aspect-ratio: 1/1) ${Math.round(w * 1.6)}vw, ${Math.round(w * 1.4)}vw`;
+---
+<Base
+  title="framesbykartikey | Photographs by Kartikey Tiwari"
+  description="Photographs by Kartikey Tiwari: college events, the night sky and everyday scenes."
+>
+  <header class="top">
+    <a class="mark" href="#top" aria-label="framesbykartikey, back to the top">
+      <Logo />
+      <span>framesbykartikey</span>
+    </a>
+    <nav aria-label="Sections">
+      {collections.map((c) => <a class="n-set" href={`#${c.id}`}>{c.title}</a>)}
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="field" data-tone="light" aria-label="Photographs"
+      style={`--hw:${wide.halfW};--hh:${wide.halfH};--hwp:${tall.halfW};--hhp:${tall.halfH}`}>
+      <div class="plane">
+        {fieldItems.map(({ p, a, b }, i) => (
+          <a
+            class="fi"
+            href={url(big(p))}
+            data-photo
+            data-field
+            data-set={p.collection}
+            data-tier={p.tier}
+            tabindex="-1"
+            aria-hidden="true"
+            style={`--x:${a.x};--y:${a.y};--xp:${b.x};--yp:${b.y};--w:${a.w};--ar:${ar(p).toFixed(4)};--i:${i};--tint:${p.color}`}
+          >
+            <img
+              src={url(p.variants[0])}
+              srcset={p.variants.slice(0, p.tier === "S" ? 3 : 2).map((v) => `${url(v)} ${v.w}w`).join(", ")}
+              sizes={sizesFor(a.w)}
+              width={p.w}
+              height={p.h}
+              alt=""
+              loading={i < 6 ? "eager" : "lazy"}
+              fetchpriority={i === 0 ? "high" : undefined}
+              decoding="async"
+              style={`background-image:url(${p.lqip})`}
+            />
+          </a>
+        ))}
+      </div>
+    </section>
+    <div class="field-bar">
+      <h1>Kartikey Tiwari</h1>
+      <p class="hint"><span class="hint-m">Move the cursor to explore</span><span class="hint-t">Drag to explore</span></p>
+      <a class="cat" href="#events">Catalogue <span aria-hidden="true">↓</span></a>
+    </div>
+
+    {collections.map((c, ci) => {
+      const items = inCollection(c.id);
+      return (
+        <section class="set" id={c.id} data-tone={c.id === "sky" ? "dark" : "light"} aria-labelledby={`${c.id}-h`}>
+          <div class="set-head">
+            <span class="n">{String(ci + 1).padStart(2, "0")}</span>
+            <h2 id={`${c.id}-h`}>{c.title}</h2>
+            <span>{items.length} photographs</span>
+          </div>
+          <div class="grid">
+            {compose(items).map((row) => (
+              <div class="row" data-tier={row.tier} style={`--al:${row.align}`}>
+                {row.cells.map(({ p, ds, dc, ms, mc }) => (
+                  <a
+                    class="ph"
+                    href={url(big(p))}
+                    data-photo
+                    data-set={c.id}
+                    data-label={c.title}
+                    data-ar={ar(p).toFixed(4)}
+                    data-nw={big(p).w}
+                    data-srcset={srcset(p)}
+                    data-alt={p.alt}
+                    aria-haspopup="dialog"
+                    style={`--ar:${ar(p).toFixed(4)};--ds:${ds};--dc:${dc};--ms:${ms};--mc:${mc};--tint:${p.color}`}
+                  >
+                    <img
+                      src={url(mid(p))}
+                      srcset={srcset(p)}
+                      sizes={`(min-width: 720px) ${Math.round((ds / 24) * 100)}vw, ${Math.round((ms / 6) * 100)}vw`}
+                      width={p.w}
+                      height={p.h}
+                      alt={p.alt}
+                      loading="lazy"
+                      fetchpriority="low"
+                      decoding="async"
+                      style={`background-image:url(${p.lqip})`}
+                    />
+                  </a>
+                ))}
+              </div>
+            ))}
+          </div>
+        </section>
+      );
+    })}
+
+    <section class="about" id="about" data-tone="light" aria-labelledby="about-h">
+      <h2 id="about-h" class="label">About</h2>
+      <div class="copy">
+        <p>
+          I’m a third-year Electronics and Communication Engineering student at NIT Goa, and Vice-President of
+          Exposure Explorers, the college photography club.
+        </p>
+        <p>
+          I have aphantasia, which means I can’t voluntarily picture things in my mind. Photographs are how I get a
+          moment back.
+        </p>
+        <p>
+          I’ve also contributed to the club’s social media, which drew more than 200,000 Instagram interactions
+          over three months.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="contact" id="contact" data-tone="light">
+    <h2 class="label">Contact</h2>
+    <a href={`mailto:${EMAIL}`}>{EMAIL}</a>
+    <p class="fine">© {new Date().getFullYear()} Kartikey Tiwari</p>
+  </footer>
+
+  <dialog id="viewer" aria-label="Photograph viewer">
+    <div class="v-stage"><img id="v-img" alt="" /></div>
+    <div class="v-bar">
+      <span id="v-count" aria-live="polite"></span>
+      <div class="v-btns">
+        <button type="button" id="v-prev">Previous</button>
+        <button type="button" id="v-next">Next</button>
+        <button type="button" id="v-close">Close</button>
+      </div>
+    </div>
+  </dialog>
+
+  <script>
+    import "../scripts/gallery";
+  </script>
+</Base>
