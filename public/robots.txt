@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://framesbykartikey.vercel.app/sitemap.xml
