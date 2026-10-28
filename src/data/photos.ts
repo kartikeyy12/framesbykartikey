@@ -55,6 +55,7 @@ const authored: [id: string, collection: CollectionId, alt: string][] = [
   ["dsc-2106", "events", "A harmonium and the hands of musicians seated on the floor."],
   ["dsc-3218", "events", "A phone held up in a dark hall, its screen glowing between fingers."],
   ["eex-9286", "events", "A phone filming a stage performance, held in two hands."],
+  ["exex-392", "events", "A player in a white number 5 shirt, seen from behind, reaches down to help a seated player in a black shirt up on a floodlit court at night."],
 
   ["img-5629", "sky", "A full moon with a wide glowing halo."],
   ["exex-12", "sky", "A large rust-red moon with dark patches on a black sky."],

@@ -42,21 +42,36 @@ interface Row { tier: Tier; align: string; cells: Cell[] }
 
 function compose(items: Photo[]): Row[] {
   const rows: Row[] = [];
+  const queue = [...items];
+  const dsOf = (p: Photo) => DS[p.tier][kindOf(p)];
   let n = 0; // photographs placed so far, for the mobile left/right alternation
-  for (let i = 0, r = 0; i < items.length; r++) {
-    const a = items[i];
-    const b = items[i + 1];
-    const group = a.tier !== "S" && b && b.tier !== "S" ? [a, b] : [a];
-    i += group.length;
-    const ds = group.map((p) => DS[p.tier][kindOf(p)]);
+  for (let r = 0; queue.length; r++) {
+    const a = queue.shift()!;
+    const group = [a];
+    if (a.tier === "S") {
+      // a hero print that leaves room beside it gets the next photograph that fits (rank order, skipping other heroes); a wide hero stays alone
+      const room = 22 - dsOf(a);
+      const k = queue.slice(0, 3).findIndex((p) => p.tier !== "S" && dsOf(p) <= room);
+      if (k >= 0) group.push(...queue.splice(k, 1));
+    } else if (queue[0] && queue[0].tier !== "S") {
+      group.push(queue.shift()!);
+      // an odd photograph left at the end joins the last row instead of standing alone
+      const c = queue[0];
+      if (queue.length === 1 && c.tier !== "S" && group.reduce((t, p) => t + dsOf(p), dsOf(c)) <= 24) group.push(queue.shift()!);
+    }
+    const ds = group.map(dsOf);
     const ms = group.map((p) => MS[p.tier][kindOf(p)]);
     const mc = group.map((_, k) => (group[k].tier === "S" || (n + k) % 2 === 0 ? 1 : 7 - ms[k]));
     n += group.length;
 
     let dc: number[];
-    if (group[0].tier === "S") dc = [1 + (24 - ds[0]) / 2];
-    else if (group.length === 1) dc = [r % 2 ? 25 - ds[0] - 1 : 2];
-    else {
+    if (group.length === 1) dc = [a.tier === "S" ? 1 + (24 - ds[0]) / 2 : r % 2 ? 25 - ds[0] - 1 : 2];
+    else if (group.length === 3) {
+      const slack = 24 - ds[0] - ds[1] - ds[2];
+      const lead = Math.min(1, slack >> 1);
+      const gap = (slack - lead) >> 1;
+      dc = [1 + lead, 1 + lead + ds[0] + gap, 1 + lead + ds[0] + gap + ds[1] + gap];
+    } else {
       // higher rank goes left on even rows and right on odd rows; edge offsets vary so the page doesn't read as two flush columns
       const slack = 24 - ds[0] - ds[1];
       const offA = Math.min([0, 2, 1][r % 3], slack >> 1);
@@ -69,7 +84,7 @@ function compose(items: Photo[]): Row[] {
     }
     rows.push({
       tier: a.tier,
-      align: ["end", "start", "center"][r % 3],
+      align: a.tier === "S" ? "center" : ["end", "start", "center"][r % 3],
       cells: group.map((p, k) => ({ p, ds: ds[k], dc: dc[k], ms: ms[k], mc: mc[k] })),
     });
   }

@@ -2318,5 +2318,40 @@
     "bytes": 84896
    }
   ]
+ },
+ {
+  "id": "exex-392",
+  "source": "College Events/EXEX-392.jpg",
+  "folder": "College Events",
+  "w": 1366,
+  "h": 2048,
+  "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoQABgAPu1mq04ppaQiMAgBMB2JZwAAXBuceNclfTBsLSoAAP70JSPhYs3Mh7uiabDhgHBtG5mqxiLsV0hDGjcj8DeTEzTg5UPam1d82TXxBFUTTp81R0k3nbtNQboiPRKnbcCdBne4IAAA",
+  "color": "#5e5e59",
+  "variants": [
+   {
+    "file": "exex-392-480.webp",
+    "w": 320,
+    "h": 480,
+    "bytes": 12660
+   },
+   {
+    "file": "exex-392-1000.webp",
+    "w": 667,
+    "h": 1000,
+    "bytes": 38944
+   },
+   {
+    "file": "exex-392-1800.webp",
+    "w": 1201,
+    "h": 1800,
+    "bytes": 106428
+   },
+   {
+    "file": "exex-392-2048.webp",
+    "w": 1366,
+    "h": 2048,
+    "bytes": 137016
+   }
+  ]
  }
 ]

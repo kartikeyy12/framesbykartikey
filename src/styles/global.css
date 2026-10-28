@@ -137,9 +137,9 @@ main, footer { padding-inline: max(var(--pad), env(safe-area-inset-left, 0px)); 
 
 /* desktop: rows of one (hero) or two prints on a 24-column grid, sized by tier */
 @media (min-width: 720px) {
-  .grid { display: flex; flex-direction: column; gap: clamp(64px, 9vw, 150px); }
+  .grid { display: flex; flex-direction: column; gap: clamp(32px, 4vw, 72px); }
   .row { display: grid; grid-template-columns: repeat(24, minmax(0, 1fr)); column-gap: clamp(8px, 1.2vw, 20px); align-items: var(--al); }
-  .ph { align-self: auto; grid-column: var(--dc) / span var(--ds); }
+  .ph { align-self: auto; grid-row: 1; grid-column: var(--dc) / span var(--ds); } /* grid-row keeps a pair side by side even when the right-hand photo comes first */
 }
 @media (hover: hover) {
   .ph { transition: opacity 0.4s ease; }
